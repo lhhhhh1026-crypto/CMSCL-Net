@@ -1,0 +1,50 @@
+[
+  {
+    "path": "percentage_train.py",
+    "sha256": "74950ef0ef41292a2906d0b3d7ae1fbde60b5e1dd6fd2b85c4988a59124b6dff",
+    "bytes": 27136,
+    "copied_without_change": true
+  },
+  {
+    "path": "dataset.py",
+    "sha256": "0d2ce74eba2e9bfb9a7c0cdaf2fa364be4cb35cdaa7d3254e2f6a9b48512a4f2",
+    "bytes": 28272,
+    "copied_without_change": true
+  },
+  {
+    "path": "util.py",
+    "sha256": "96580c9dfb8fbf056b2847d51bf0ec24c54665c83e88eaadee810239e6f19045",
+    "bytes": 15513,
+    "copied_without_change": true
+  },
+  {
+    "path": "model/mlp_former.py",
+    "sha256": "718bc261e9b44b7c5d52a0a60fde602a14101c2492a4800430471069919cc50a",
+    "bytes": 12092,
+    "copied_without_change": true
+  },
+  {
+    "path": "model/simpleview.py",
+    "sha256": "ceebec95e5ea32dfd061743a22bebf45bd792241e478fea562876b265b1b1217",
+    "bytes": 1171,
+    "copied_without_change": true
+  },
+  {
+    "path": "model/resnet.py",
+    "sha256": "98a7bbb2ea367f86fec2a532124908aec8a0d794496114637e3eea066f796636",
+    "bytes": 7255,
+    "copied_without_change": true
+  },
+  {
+    "path": "model/resnet50_101.py",
+    "sha256": "1163a18b0b5f2aaa3d00fddaba156e2719c585193d4a3a55113ef18d3fe31b0a",
+    "bytes": 4974,
+    "copied_without_change": true
+  },
+  {
+    "path": "model/attention_fusion.py",
+    "sha256": "445b608bf1bf213c6174e0d615c81f8fee0da47fc402ef15edef4416a83cf393",
+    "bytes": 12556,
+    "copied_without_change": true
+  }
+]

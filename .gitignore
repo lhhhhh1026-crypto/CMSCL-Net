@@ -1,0 +1,33 @@
+# Local data and experiment products
+/data/
+/logs/
+/weights/
+/results/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local settings and credentials
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+Thumbs.db
+.DS_Store

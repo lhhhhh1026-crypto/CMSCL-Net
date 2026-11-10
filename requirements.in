@@ -1,0 +1,12 @@
+# Direct dependency inventory, not a tested or original-experiment lock file.
+# Select mutually compatible torch/torchvision/CUDA builds first.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+pytorch-metric-learning
+matplotlib
+tqdm
+tensorboard
+addict
